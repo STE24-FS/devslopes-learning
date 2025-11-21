@@ -5,8 +5,8 @@ const users = [
   { name: "Sarah", hobby: "Hang-gliding" },
   { name: "Jose", hobby: "Snowboarding" },
   { name: "Phillip" },
-  { name: "Charles", hobby: "Rock Climbing" }
-  { name: "Tabatha" hobby: "Art" },
+  { name: "Charles", hobby: "Rock Climbing" },
+  { name: "Tabatha", hobby: "Art" },
 ];
 
 function logUser(user) {

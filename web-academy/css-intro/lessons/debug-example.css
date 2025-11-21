@@ -1,15 +1,15 @@
 .box {
-  position absolute;
+  position: absolute;
   width: 200px;
   height: 200px;
 }
 
 #one {
   position: relative;
-  background: red
+  background: red;
   top: 100px;
   left: 150px;
-  zindex: 1;
+  z-index: 1;
 }
 
 two {
@@ -17,10 +17,10 @@ two {
   background: yellow;
   top: 80px;
   left: 160px;
-  zindex: -1;
+  z-index: -1;
 }
 
 #three {
   background: bluue;
-  cooler: green;
+  color: green;
 }
